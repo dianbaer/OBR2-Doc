@@ -105,41 +105,41 @@ The standard is primarily subjective, supplemented by objective data — because
 
 Key evaluation indicators:
 
-1. **Smash heaviness** — Tail speed; whether the opponent can easily block it back; whether it floats.
-2. **Smash sharpness** — More piercing toward the front court; more penetrating depth toward the rear court.
-3. **Smash stability / consistency** — Consistency during sustained attacking sequences; whether each smash produces the expected power and landing accuracy.
+1. Smash heaviness
+2. Smash sharpness
+3. Smash stability
 
 ### 1.2 Power (Thunder) — Zhang Fei
 
 Key evaluation indicators:
 
-1. **Shaft feel** — Elasticity, rebound response, and explosive snap sensation.
-2. **Smash speed** — Maximum shuttle speed off the frame during full or near-full-power smashes.
-3. **Punch smash power** — Effectiveness and feel of abbreviated punch smashes.
+1. Shaft explosive power
+2. Smash explosive power
+3. Smash consistency
 
 ### 1.3 Speed (Wind) — Zhao Yun
 
 Key evaluation indicators:
 
-1. **Shot release speed** — Fast or slow shuttle departure; feel type: elastic / crisp / stiff.
-2. **Drive rally fluency** — Drive and mid-court exchange capability and consistency.
-3. **Maneuverability** — Overall agility in connecting front-to-back movements; agility is a holistic measure.
+1. Swing speed
+2. Shot release speed
+3. Rally fluency & stability
 
 ### 1.4 Control (Water) — Huang Zhong
 
 Key evaluation indicators:
 
-1. **Clear quality** — Height, arc, feel, and the sensation of harnessing momentum on the follow-through.
-2. **Landing accuracy** — Whether all shot types consistently land on intended targets.
-3. **Touch finesse** — Net play delicacy, slice friction, sweet spot refinement, and whether the overall feel strikes a golden balance in coordination.
+1. Landing accuracy
+2. Solid & stable contact
+3. Comfortable touch
 
 ### 1.5 Defense (Earth) — Ma Chao
 
 Key evaluation indicators:
 
-1. **Defensive redirection** — Ability to push smashes back; ease of borrowing opponent's power; stability when receiving smashes.
-2. **Fault tolerance** — Likelihood of mis-hits on the frame; frame and sweet spot size; lever arm length; shaft recovery speed.
-3. **Stability & solidity** — Whether shots float; overall solidity of ball contact.
+1. Defensive capability
+2. Fault tolerance
+3. Passive/reactive situations
 
 ---
 
@@ -188,11 +188,11 @@ Key evaluation indicator:
 
 The explosive force delivered to the shuttle head during a stroke; how fast the racket can accelerate to shuttle-contact speed.
 
-### 2.3 Agility
+### 2.3 Endurance
 
 Key evaluation indicator:
 
-Overall body agility; closely related to body weight and muscle strength.
+Full-body endurance; insufficient endurance leads to diminished power output in the latter half of a match.
 
 ### 2.4 Skill
 

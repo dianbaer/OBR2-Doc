@@ -27,6 +27,7 @@
   - [II. Player Ability Requirements](#ii-player-ability-requirements)
   - [III. Objective Racket Parameters](#iii-objective-racket-parameters)
   - [IV. Technology Parameters](#iv-technology-parameters)
+  - [V. Compare Card](#v-compare-card)
 
 ---
 
@@ -52,7 +53,7 @@ Badminton racket reviews on the market are inconsistent and lack a unified stand
 </td>
 <td align="center" width="50%">
 <img src="./1-2.png" width="320" alt="Feel Card"/>
-<br/><sub><b>② Feel Card</b><br/>Five-Element Feel Details · Overall Impression</sub>
+<br/><sub><b>② Feel Card</b><br/>Five-Element Feel Details · Sub-scores · Overall Impression</sub>
 </td>
 </tr>
 <tr>
@@ -63,6 +64,12 @@ Badminton racket reviews on the market are inconsistent and lack a unified stand
 <td align="center" width="50%">
 <img src="./1-4.png" width="320" alt="Tech Card"/>
 <br/><sub><b>④ Tech Card</b><br/>Technology & Material Tags · Special Notes</sub>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img src="./1-5.png" width="320" alt="Compare Card"/>
+<br/><sub><b>⑤ Compare Card</b><br/>Side-by-side comparison of 2–3 rackets · Score deltas · Requirement deltas · Overall Difficulty</sub>
 </td>
 </tr>
 </table>
@@ -288,6 +295,33 @@ The average of scores from 2.1–2.5, mapped to six difficulty tiers (0–5). Th
 ### 4.5 Frame Material
   Describe the frame material technologies, separated by commas.
   e.g. High-modulus Carbon Fiber, 46T PYROFIL, Alloy Carbon Fiber, Nano Aerogel, Core-Force Fill Technology, TR Nano-Carbon Tube
+
+---
+
+## V. Compare Card
+
+The Compare Card supports side-by-side comparison of **2–3 rackets**. The first racket serves as the "protagonist"; all other rackets display delta values relative to it, making it easy to see strengths and weaknesses at a glance.
+
+### Comparison Dimensions
+
+| Dimension | Description |
+|-----------|-------------|
+| Subjective 5-Element Scores | Attack / Power / Speed / Control / Defense — supports one decimal place |
+| Overall Average | Auto-calculated average of the five scores, with delta displayed |
+| Player Ability Requirements | Strength / Power Gen. / Endurance / Skill / Zhongyu Level — supports one decimal place |
+| Overall Difficulty | Difficulty label mapped from the average of the five ability scores |
+
+### Delta Color Rules
+
+**Subjective score deltas** (compared to protagonist):
+- `=` Gray — no difference
+- `▲` Green — better than protagonist
+- `▼` Light orange / Dark orange / Red — gap ≤5 / ≤10 / >10
+
+**Ability requirement deltas**:
+- `=` Gray — same
+- `+` Orange — higher requirement (harder to wield)
+- `-` Green — lower requirement (easier to handle)
 
 ---
 
